@@ -1,0 +1,13 @@
+Profe:
+
+Para la entrega 2, hemos trabajado con dos códigos diferentes: seam_carving 3.py y sc_khartik.py.
+
+Ambos programas reciben como entrada una imagen .jpg. No hemos encontrado la forma de trabajar con imagenes .csv como las del dataset.
+
+El primero genera una matriz con la imagen procesada, pero nos falta interpretarla.
+
+El segundo genera una imagen en formato .jpg procesada. Pensamos que estamos más adelante con este segundo programa que con el primero.
+
+Para la tercera entrega esperamos tener la solución definitiva.
+
+Se incluyen en este directorio la imagen original (R.jpg) y la imagen procesada (R_procesada.jpg).
